@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+input, button {
+    margin: 10px;
+    padding: 5px;
+}
+
+img {
+width: 450px;
+margin: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.centered-image {
+    max-width: 100%;
+    max-height: 100%;
+}
